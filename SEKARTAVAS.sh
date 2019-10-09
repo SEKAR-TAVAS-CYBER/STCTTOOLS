@@ -199,5 +199,5 @@ if [ $pil = ]
 then
 echo $me "PILIH YANG BENAR SAYANGKU:!!!"
 sleep 5
-sh S.sh
+sh SEKARTAVAS.sh
 fi
